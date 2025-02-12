@@ -3,4 +3,4 @@ height = int(input("Enter your height in inches: "))
 
 BMI = (weight * 703) / (height * height)
 
-print(BMI)
+print(f"Your BMI is ", BMI)
