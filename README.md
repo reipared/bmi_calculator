@@ -5,7 +5,7 @@ It was originally developed in a Jupyter Notebook and has been converted into a 
 
 ## BMI Formula:
 
-BMI = weight (kg) / (height (m) ** 2)
+BMI = weight / (height ** 2)
 
 ## Usage
 
